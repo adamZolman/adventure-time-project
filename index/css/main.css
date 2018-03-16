@@ -584,6 +584,11 @@ footer{
     .upcoming-concerts{
       display: block;
     }
+    .upcoming-concerts{
+        line-height: 2.5;
+        font-weight: 700;
+
+    }
 
     /*This is on the main page and the Episode Page*/
     .feed-title{
